@@ -40,6 +40,6 @@ to is my token
 
 header with 
     Authorization: key=AAAAKoxNeL8:APA91bFxCwlP7JK031uS0Ey7bSmH2sCPJ_72RaFzRFM97pYVWHvPB5SKzL00epm-egTv2aOsywQAj1LFBTXo9Yq1wCREA8WUjM2hvWTF3Eyh-2KWPTQWk_W4wONR9X0GFhj9pPoay__a
-    application/json: application/json
+    | application/json: application/json
 
 use postmap with methode post and url https://fcm.googleapis.com/fcm/send
