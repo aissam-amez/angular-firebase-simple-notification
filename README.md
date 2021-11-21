@@ -30,17 +30,16 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 to is my token
 
-{
-    "notification": {
-        "title": "Hey there",
-        "body": "Subscribe to might ghost hack youtube channel"
-    },
-    "to": "c7ITPwj_v4cdCJsQIbKSFq:APA91bHALc_BtYOlYdb7aunZ6ihRaSj5ueLSLxLB479v7K0M9RMVritMl_GmjINdCnk01_eeVk9Ci2297KPaKeQDD9T9KFYzhmEZQC6Qkte3OBtyhG9qHfHUdTCEtAoyArl4P5o3-A12"
-}
+    {
+        "notification": {
+            "title": "Hey there",
+            "body": "Subscribe to might ghost hack youtube channel"
+        },
+        "to": "c7ITPwj_v4cdCJsQIbKSFq:APA91bHALc_BtYOlYdb7aunZ6ihRaSj5ueLSLxLB479v7K0M9RMVritMl_GmjINdCnk01_eeVk9Ci2297KPaKeQDD9T9KFYzhmEZQC6Qkte3OBtyhG9qHfHUdTCEtAoyArl4P5o3-A12"
+    }
 
 header with 
     Authorization: key=AAAAKoxNeL8:APA91bFxCwlP7JK031uS0Ey7bSmH2sCPJ_72RaFzRFM97pYVWHvPB5SKzL00epm-egTv2aOsywQAj1LFBTXo9Yq1wCREA8WUjM2hvWTF3Eyh-2KWPTQWk_W4wONR9X0GFhj9pPoay__a
-    
     application/json: application/json
 
 use postmap with methode post and url https://fcm.googleapis.com/fcm/send
